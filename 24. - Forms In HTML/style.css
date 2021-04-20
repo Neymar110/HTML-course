@@ -1,0 +1,30 @@
+* { 
+    margin : 0px;
+}
+
+form {
+    width : 300px;
+}
+input {
+    margin-left: 960px;
+    width : 100%;
+}
+textarea {
+    resize: both;
+    /* max-width: ; */
+    /* max-height: ; */
+}
+
+/* input, textarea {
+    outline : none;
+    border: 1px solid rgb(255, 7, 7);
+}
+
+input:focus, textarea:focus {
+    box-shadow: 0 0 4px rgba(255, 0, 0, 0.5); /* X axis, Y axis, Blur value, Color of box shaddow
+    border: 1px solid rgb(0, 4, 255);
+} */
+
+/* :-ms-input-placeholder { */
+    /* color : red */
+/* } */
